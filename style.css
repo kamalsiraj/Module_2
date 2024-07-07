@@ -12,14 +12,14 @@
     }
 }
 
-h1 {
+h1:hover{
     animation: color-change 3s infinite;
 }
 
 body {
     font-family: Arial,  sans-serif; /* keluarga font */
     font-size: 11px; /* Ukuran font utama pada tag <p></p> */
-    background-color: grey; /* Warna latar belakang laman web */
+    background-color: black; /* Warna latar belakang laman web */
     color: #333333; /* Warna teks */ 
 }
 h1 {
